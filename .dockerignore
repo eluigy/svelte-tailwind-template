@@ -1,0 +1,19 @@
+# Ignorar node_modules ya que se instalarán en el contenedor
+node_modules
+# Ignorar archivos de configuración específicos del entorno de desarrollo
+.env
+# Ignorar archivos de construcción locales
+build
+# Ignorar archivos de logs
+*.log
+# Ignorar archivos de configuración de Git
+.git
+.gitignore
+# Ignorar archivos de configuración de Docker
+Dockerfile
+.dockerignore
+# Ignorar archivos de configuración de IDEs
+.vscode
+.idea
+# Ignorar archivos de documentación
+*.md
